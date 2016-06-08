@@ -1,10 +1,11 @@
 
-> Fast and simple node.js logger
+> Pino - fast and simple node.js logger
 
-# Pino
+# Pino.io
 This repo contains the documentation website for [Pino][].
 
-__Lead Maintainer:__ [Matteo Collina][lead]
+- __Lead Maintainer:__ [Matteo Collina][lead]
+- __Sponsor:__ [nearForm][nearForm]
 
 ## Run Locally
 After cloning, you will need to get dependencies via npm,
@@ -31,9 +32,12 @@ Please see our [contribute][] page for more information.
 
 
 ## License
-Copyright Matteo Collina and other contributors, Licensed under [MIT][].
+Copyright (c) 2016, [Matteo Collina][lead] and other [contributors](https://github.com/mcollina/pino/graphs/contributors), Licensed under [MIT][].
 
 [MIT]: ./LICENSE
+[/src/pages]: ./src/pages
+[contribute]: ./src/pages/contribute/index.md
 [Pino]: https://github.com/mcollina/pino
 [lead]: https://github.com/mcollina
 [Metalsmith]: http://metalsmith.io
+[nearForm]: http://www.nearform.com/
