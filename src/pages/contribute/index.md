@@ -3,10 +3,11 @@ layout: main.html
 ---
 
 # Contribute
-[Seneca][], [Senecajs.org][], and all official plugins are __open__ projects and encourage
+[Pino][], [Getpino.io][] are __open__ projects and encourage
 participation. If you feel you can help in any way, be it with documentation, examples, extra
 testing, or new features, please be our guest! =)
 
+## Helping out
 Contributing is not always about adding new features. There are plenty of other ways to get
 involved. For instance:
 
@@ -18,41 +19,25 @@ involved. For instance:
 Like any other project, there is plenty to be done by people of all skill levels and specialities.
 If you have any questions, or want to help out, please stop by our issues boards.
 
-- For issues or questions about how to contribute or our documentation, go to [Senecajs.org][] and its [issues][org_issues]
-- For issues or questions on Seneca itself, go to [Seneca][code_issues].
+- For issues or questions about how to contribute or our documentation, go to [Getpino.io][] and its [issues][org_issues]
+- For issues or questions on Pino.js itself, go to [Pino][code_issues].
 
 ## How to contribute
 Before you start, please read our code of [code of conduct][]. It contains very important information for
-all contributors to Senecajs.org. We also have a list of org level documents you can look through.
-They give great information on how we work and how to contribute.
+all contributors to Pino.
 
-- [Principles][]
-- [Governance][]
-- [Guidelines][]
-- [Style guide][]
-- [How we work][]
-- [Our tools][]
 
-### Contributing guides
-
-- [Adding a tutorial][]
-
-### Contributors list
-All contributors to the Senecajs org are given a place on our list. If you would rather we removed
+## Contributors
+All contributors to the Pinojs are given a place on our list. If you would rather we removed
 your name, please open an issue.
 
 - [Contributor list][contributors].
 
-## Acknowledgements
-
-- [Hapi][]: for allowing us to use their org assests as the basis of our own.
-- [Chakra Core][]: For their awesome CoC
-
 ## License
-[Seneca][] and [its docs][Senecajs.org] are licensed under MIT and
-are the copyright of [Richard Rodger][] and [other][contributors] [contributors][].
+[Pino][] and [its docs][getpino.io] are licensed under MIT and
+are the copyright of [Matteo Collina][] and [other][contributors] [contributors][].
 
-> Copyright (c) 2010 - 2015 Richard Rodger and other contributors.
+> Copyright (c) 2016 Matteo Collina and other contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -73,24 +58,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 [Adding a tutorial]: ./adding-a-tutorial.html
-[Seneca]: https://github.com/senecajs/seneca
-[code_issues]: https://github.com/senecajs/seneca/issues
-[Senecajs.org]: https://github.com/senecajs/senecajs.org
+[Pino]: https://github.com/mcollina/pino
+[code_issues]: https://github.com/mcollina/pino/issues
+[getpino.io]: https://github.com/matt-oc/pino.io
 [org_issues]: https://github.com/senecajs/senecajs.org/issues
 [other]: https://github.com/senecajs/senecajs.org/contributors
-[contributors]: /contributors/
-[Richard Rodger]: https://github.com/rjrodger
+[contributors]: https://github.com/mcollina/pino/graphs/contributors
+[Matteo Collina]: https://github.com/mcollina
 [Hapi]: https://github.com/hapijs
-
-[Principles]: ./principles.html
-[Governance]: ./governance.html
-[Guidelines]: ./guidelines.html
-[Style guide]: ./styleguide.html
 [Code of Conduct]: ./code-of-conduct.html
-[Our tools]: ./our-tools.html
-[How we Work]: ./how-we-work.html
-[Code of conduct]: ./code-of-conduct.html
-
 [email]: mailto:hello@nearform.com
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/3/0/
