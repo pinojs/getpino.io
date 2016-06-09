@@ -19,9 +19,7 @@ It also includes a shell utility to pretty-print its log files.
 * [How do I rotate log files?](#rotate)
 * [How to use Transports with Pino](#transports)
 * [Caveats](#caveats)
-* [Team](#team)
-* [Acknowledgements](#acknowledgements)
-* [License](#license)
+
 
 ## Install
 

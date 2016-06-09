@@ -1,7 +1,7 @@
 
 > Pino - fast and simple Node.js logger
 
-# Pino.io
+# Getpino.io
 This repo contains the documentation website for [Pino][].
 
 - __Lead Maintainer:__ [Matteo Collina][lead]
@@ -21,16 +21,18 @@ npm run start
 ```
 
 ## Contributing
+
 Pino and its docs are __open projects__ and encourage participation. If you feel you can help in
 any way, be it with examples, extra testing, tutorials, or new features please be our guest.
 
-Please see our [contribute][] page for more information.
+Before you start, please read our code of [code of conduct][]. It contains very important information for all contributors to Pino.
 
 
 ## License
 Copyright (c) 2016, [Matteo Collina][lead] and other [contributors](https://github.com/mcollina/pino/graphs/contributors), Licensed under [MIT][].
 
 [MIT]: ./LICENSE
+[Code of Conduct]: ./src/pages/contribute/code-of-conduct.md
 [/src/pages]: ./src/pages
 [contribute]: ./src/pages/contribute/index.md
 [Pino]: https://github.com/mcollina/pino
