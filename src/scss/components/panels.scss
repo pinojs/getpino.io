@@ -26,7 +26,10 @@
 
 .panel-download,
 .panel-start,
-.panel-updates {
+.panel-updates,
+.panel-chat,
+.panel-bug,
+.panel-plus {
   transition: none;
 }
 
@@ -45,5 +48,23 @@
 .panel-updates:hover {
   .icon-updates {
     background-position: 0 -40px;
+  }
+}
+
+.panel-chat:hover {
+  .icon-chat {
+    background-position: 0 -40px;
+  }
+}
+
+.panel-bug:hover {
+  .icon-bug {
+    opacity: 0.5;
+  }
+}
+
+.panel-plus:hover {
+  .icon-plus {
+    opacity: 0.5;
   }
 }

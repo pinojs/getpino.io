@@ -24,7 +24,10 @@
 
 .icon-download,
 .icon-start,
-.icon-updates {
+.icon-updates,
+.icon-chat,
+.icon-bug,
+.icon-plus {
   height: 40px;
 }
 
@@ -60,4 +63,19 @@
   padding-left: $ui-spacing-double;
   font-size: $font-large;
   line-height: 1.5;
+}
+
+.icon-chat {
+  width: 41px;
+  background-image: url("/images/icon-chat.svg");
+}
+
+.icon-bug {
+  width: 41px;
+  background-image: url("/images/icon-bug.svg");
+}
+
+.icon-plus {
+  width: 41px;
+  background-image: url("/images/icon-plus.svg");
 }

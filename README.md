@@ -33,8 +33,6 @@ Copyright (c) 2016, [Matteo Collina][lead] and other [contributors](https://gith
 
 [MIT]: ./LICENSE
 [Code of Conduct]: ./src/pages/contribute/code-of-conduct.md
-[/src/pages]: ./src/pages
-[contribute]: ./src/pages/contribute/index.md
 [Pino]: https://github.com/mcollina/pino
 [lead]: https://github.com/mcollina
 [Metalsmith]: http://metalsmith.io
