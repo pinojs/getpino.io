@@ -1,7 +1,7 @@
 {
-  "name": "seneca-docs",
+  "name": "Getpino.io",
   "version": "0.1.0",
-  "description": "The website for senecajs",
+  "description": "The website for Pino.js",
   "main": "build.js",
   "license": "MIT",
   "private": "true",
